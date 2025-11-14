@@ -4,6 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-## 我就爛
+## Shuang-Yen Lee (李雙言) 
 
 ![image](/images/Li4black.png)
