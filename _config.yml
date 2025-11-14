@@ -23,7 +23,7 @@ navigation:
   - {file: "Notes.md", icon: plus}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:chjh21005@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:d10221004@ntu.edu.tw"}
   #- {title: PDF, icon: file, url: "/Conic.pdf"}
   #- {title: Wiki, icon: file, url: "/Geometry_Lemma_Wiki.pdf"}
 
