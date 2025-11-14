@@ -1,9 +1,11 @@
 ---
-title: "Home"
+title: "About"
 layout: page
 ---
 
-## Shuang-Yen Lee
+## Shuang-Yen Lee (李雙言)
+
+ 
 
 <!--{% if site.show_excerpts %}
   {% include home.html %}
