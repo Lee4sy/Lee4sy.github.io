@@ -4,7 +4,7 @@ permalink: "/research/"
 layout: page
 ---
 
-## Publication
+## Publications
 
 [1] Global Igusa zeta function and $K$-equivalence, Asian Journal of Mathematics, Vol. 29, Issue 2 (2025), pp. 97-114, https://dx.doi.org/10.4310/AJM.250717204543. ([pdf][Lee25]) 
 
