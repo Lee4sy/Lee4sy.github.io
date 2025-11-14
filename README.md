@@ -8,7 +8,8 @@ layout: page
 
 <!--![image](/images/Li4black.png)-->
 
-This is my [CV][CV]
+I am a PhD student of Chin-Lung Wang at National Taiwan University. This is my [CV][CV]. 
 
+My research interests are birational geometry, enumerative geometry, and arithmetic geometry. 
 
 [CV]: /Shuang_Yen_Lee_CV.pdf
