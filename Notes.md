@@ -1,8 +1,8 @@
 ---
 title: "Notes"
-permalink: "/study/"
+permalink: "/notes/"
 layout: page
 ---
 
-## 
+## Here are some notes :)
 
